@@ -11,3 +11,14 @@
 img{
     width: 40px;
 }
+h1{
+    color: red;
+    text-emphasis: center;
+    font-size: 50px;
+}
+
+p{
+    color: blue;
+    font-size: 20px;
+    text-align: justify;
+}
